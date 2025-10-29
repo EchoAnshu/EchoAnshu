@@ -1,8 +1,5 @@
-## 🏅 My Hacktoberfest 2025 Badges
+### 🏆 Hacktoberfest 2025: Super Contributor  
+[![Holopin badge](https://holopin.me/echoanshu)](https://holopin.io/@echoanshu)
 
-[![@EchoAnshu's Holopin board](https://holopin.me/echoanshu)](https://holopin.io/@echoanshu)
-
-🎉 Participated in **Hacktoberfest 2025**  
-Earned 7 Holopin badges including the **Super Contributor** badge 🪶  
-Learned about GitHub PRs, branches, and open-source collaboration.  
-Next goal → make real, impactful contributions in 2026 🚀
+🎯 Achieved the **Super Contributor** milestone in [Hacktoberfest 2025](https://holopin.io/badge/hacktoberfest-2025-supercontributor).  
+Earned official recognition and T-shirt reward for **6+ accepted PRs** across open-source repositories.
