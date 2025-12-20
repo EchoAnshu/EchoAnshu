@@ -7,7 +7,8 @@ Earned official recognition and T-shirt reward for **6+ accepted PRs** across op
 I am Anshu a Computer Engineering student. I believe building>talking.<br>📚 Actively grinding DSA & problem-solving<br>🧠 Exploring and testing AI tools & LLM-based ideas<br>🎮 Learning Unity to build interactive projects<br>🛠️ Focused on fundamentals, execution, and consistency<br><br>Too stubborn to quit. Too curious to stay average.<br>🧰 Tech I’m Working With<br>>C / C++<br>>Data Structures & Algorithms<br>>Unity (C#)<br>>AI tools & experimentation<br>📌 Current Focus<br>Strengthening core CS fundamentals<br>Shipping small but real projects<br>Becoming harder to ignore with results<br><br>
 
 
-## 🌐 Socials:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-pandey-3a2176330)
+## 🌐 Socials: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-pandey-3a2176330)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshupandey1675@gmail.com) 
 
 # 💻 Tech Stack:
