@@ -20,8 +20,7 @@ I am Anshu a Computer Engineering student. I believe building>talking.<br>📚 A
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EchoAnshu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EchoAnshu&icon=0&color=4)](https://visitcount.itsvg.in)
