@@ -18,10 +18,6 @@ I am Anshu a Computer Engineering student. I believe building>talking.<br>📚 A
 ![](https://nirzak-streak-stats.vercel.app/?user=EchoAnshu&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoAnshu&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EchoAnshu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EchoAnshu&icon=0&color=4)](https://visitcount.itsvg.in)
