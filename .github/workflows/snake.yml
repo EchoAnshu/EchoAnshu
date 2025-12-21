@@ -1,0 +1,20 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: EchoAnshu
+          outputs: dist/snake.svg
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: "snake"
+          add: "dist" 
