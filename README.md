@@ -1,23 +1,68 @@
-# 💫 About Me:
-I am Anshu a Computer Engineering student. I believe building>talking.<br>📚 Actively grinding DSA & problem solving<br>🧠 Exploring and testing AI tools & LLM based ideas<br>🎮 Learning Unity to build interactive projects<br>🛠️ Focused on fundamentals, execution, and consistency<br><br>Too stubborn to quit. Too curious to stay average.<br>🧰 Tech I’m Working With<br>>C / C++<br>>Data Structures & Algorithms<br>>Unity (C#)<br>>AI tools & experimentation<br>📌 Current Focus<br>Strengthening core CS fundamentals<br>Shipping small but real projects<br>Becoming harder to ignore with results<br><br>
+# 💫 About Me
 
+<p align="center">
+I am Anshu, a Computer Engineering student. I believe <b>building &gt; talking</b>.<br><br>
 
-## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-pandey-3a2176330)
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshupandey1675@gmail.com) 
+📚 Actively grinding DSA & problem solving<br>
+🧠 Exploring and testing AI tools & LLM-based ideas<br>
+🎮 Learning Unity to build interactive projects<br>
+🛠️ Focused on fundamentals, execution, and consistency<br><br>
 
-<img src="https://raw.githubusercontent.com/EchoAnshu/EchoAnshu/main/dist/snake.svg">
+<b>Too stubborn to quit. Too curious to stay average.</b><br><br>
 
+🧰 <b>Tech I’m Working With</b><br>
+C / C++<br>
+Data Structures & Algorithms<br>
+Unity (C#)<br>
+AI tools & experimentation<br><br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EchoAnshu&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EchoAnshu&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoAnshu&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+📌 <b>Current Focus</b><br>
+Strengthening core CS fundamentals<br>
+Shipping small but real projects<br>
+Becoming harder to ignore with results
+</p>
+
+---
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshu-pandey-3a2176330/">
+    <img src="https://img.shields.io/badge/LinkedIn-EchoAnshu-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:anshupandey1675@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anshupandey1675%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EchoAnshu&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,php,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EchoAnshu&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=EchoAnshu&theme=transparent&hide_border=true" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoAnshu&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EchoAnshu/EchoAnshu/output/github-snake-dark.svg" />
+</p>
+
+---
+
+
+
+
+
