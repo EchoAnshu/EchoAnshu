@@ -5,7 +5,6 @@ I am Anshu, a Computer Engineering student. I believe <b>building &gt; talking</
 
 📚 Actively grinding DSA & problem solving<br>
 🧠 Exploring and testing AI tools & LLM-based ideas<br>
-🎮 Learning Unity to build interactive projects<br>
 🛠️ Focused on fundamentals, execution, and consistency<br><br>
 
 <b>Too stubborn to quit. Too curious to stay average.</b><br><br>
@@ -13,7 +12,6 @@ I am Anshu, a Computer Engineering student. I believe <b>building &gt; talking</
 🧰 <b>Tech I’m Working With</b><br>
 C / C++<br>
 Data Structures & Algorithms<br>
-Unity (C#)<br>
 AI tools & experimentation<br><br>
 
 📌 <b>Current Focus</b><br>
